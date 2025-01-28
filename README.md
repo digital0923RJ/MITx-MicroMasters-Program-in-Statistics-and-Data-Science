@@ -32,4 +32,4 @@ The program comprises the following core courses:
 ---
 
 Through this program, I participated in numerous hands-on classes. Once I organize the materials I studied, I will upload them here.  
-Particularly for the **Data Analysis** course, since assignments had to be submitted in Word format, it may take me more time to compile and organize the content.
+Particularly for the Data Analysis course, since assignments had to be submitted in Word format, it may take me more time to compile and organize the content.
